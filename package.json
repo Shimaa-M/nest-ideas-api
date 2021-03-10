@@ -1,8 +1,8 @@
 {
   "name": "ideas-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "nestjs project for writing ideas and can like or dislike or write comments on ideas",
+  "author": "Shimaa Mahmoud",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
